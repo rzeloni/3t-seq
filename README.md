@@ -148,7 +148,22 @@ For more advanced testing options, see the [Usage documentation](docs/usage/inde
 
 ## References
 
-Tabaro F, Boulard M, *3t-seq: automatic gene expression analysis of single copy genes, transposable elements and tRNAs from total RNA-seq data*, Under review.
+Tabaro F, Boulard M. 3t-seq: automatic gene expression analysis of single-copy genes, transposable elements, and tRNAs from RNA-seq data. Brief Bioinform. 2024 Sep 23;25(6):bbae467. doi: 10.1093/bib/bbae467. PMID: 39322626; PMCID: PMC11424182.
+
+```
+@article{tabaro20243tseq,
+  author = {Tabaro, Francesco and Boulard, Matthieu},
+  title = {3t-seq: automatic gene expression analysis of single-copy genes, transposable elements, and {tRNAs} from {RNA-seq} data},
+  journal = {Briefings in Bioinformatics},
+  shortjournal = {Brief Bioinform},
+  year = {2024},
+  volume = {25},
+  number = {6},
+  doi = {10.1093/bib/bbae467},
+  pmid = {39322626},
+  issn = {1477-4054},
+}
+```
 
 ## License
 
